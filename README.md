@@ -11,3 +11,6 @@
 However, if your project requires paging, you can transform this code to make this fit for your project.
 I've added annotation on the code.
 2. Make sure you have the Chrome Driver which version matches with your Chrome version and place it on the proper route. The Chrome Driver can be downloaded [here](https://chromedriver.chromium.org/downloads)
+
+# Feedback
+If you have any feedback or improvement e-mail me [here](cjm85746@gmail.com)
